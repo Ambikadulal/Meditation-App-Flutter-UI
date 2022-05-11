@@ -18,6 +18,9 @@ There are two pages: the home page and the details page. A menu button is locate
  On the right side of the page is a yoga lady vector with a small search bar,
  and on the top of the page is a title with a short description of the course. Then there's the schedule of sessions. The second portion of the course is at the bottom.
 
-# SscreenShots
-![page1](https://user-images.githubusercontent.com/55906788/167878450-4560372f-870e-482a-9728-6c379c7d5c40.jpg) ![page2](https://user-images.githubusercontent.com/55906788/167878520-a058fc1a-eb6d-42e8-98c3-feeefe38cab5.jpg)
+# ScreenShots
+        # HomePage
+![page1](https://user-images.githubusercontent.com/55906788/167878450-4560372f-870e-482a-9728-6c379c7d5c40.jpg) 
+        # DetailsPage 
+![page2](https://user-images.githubusercontent.com/55906788/167878520-a058fc1a-eb6d-42e8-98c3-feeefe38cab5.jpg)
 
