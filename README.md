@@ -6,10 +6,10 @@ flutter_svg: https://pub.dev/packages/flutter_svg
 
 # UI Credit
 design by: Shahidul Islam Shishir
-link : https://www.uplabs.com/posts/daily-exercises-app-freebie
+link: https://www.uplabs.com/posts/daily-exercises-app-freebie
 
 # Assets / Images
-shutterStock, The Flutter Way - gitHub and other CCO site
+Shutterstock, The Flutter Way - GitHub and other CCO sites
 
 There are two pages: the home page and the details page. A menu button is located in the top right corner of the home page, and then a large good morning to you.
  A search bar with a rounded corner follows, followed by a selection of workouts for you. Finally, there is a Bottom navigation bar at the bottom.
