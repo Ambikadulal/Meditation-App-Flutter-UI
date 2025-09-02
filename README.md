@@ -25,4 +25,3 @@ There are two pages: the home page and the details page. A menu button is locate
 
  ## DetailsPage 
 ![page2](https://user-images.githubusercontent.com/55906788/167878520-a058fc1a-eb6d-42e8-98c3-feeefe38cab5.jpg)
-
